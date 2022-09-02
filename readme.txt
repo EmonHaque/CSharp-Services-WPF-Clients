@@ -1,3 +1,6 @@
+C Services have been removed from this repo. New repo for C Services and Trimmed WPF Clients https://github.com/EmonHaque/C-Services-WPF-Clients. Previously this repo name was ServicesAndApps.
+=====================================================================================================================================================================
+
 1) Logins.db is required for LoginServices in C/C#
 
 2) AppRepo/applist.txt file format:
